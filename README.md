@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# Midterm Project
 
 ## Project/Goals
 (fill in your description and goals here)
